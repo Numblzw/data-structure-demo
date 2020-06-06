@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuziwen/CLionProjects/AVL-Tree/main.cpp
+iostream
+-
+queue
+-
+stack
+-
+algorithm
+-
+string
+-
+
